@@ -3,6 +3,8 @@
 // Description: Morse code to Word and Word to Morse code translator in different languages.
 // GitHub: https://github.com/cyran-kyle
 // Morse code dictionary
+
+
 const morseCode = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.', 'H': '....',
     'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..', 'M': '--', 'N': '-.', 'O': '---', 'P': '.--.',
