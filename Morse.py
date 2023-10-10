@@ -2,7 +2,6 @@
 # Date: October 9, 2023
 # Description: Morse code to Word and Word to Morse code translator in different languages.
 # GitHub: https://github.com/cyran-kyle
-
 # Morse code dictionary
 morse_code_dict = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.', 'H': '....',
